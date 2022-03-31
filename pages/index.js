@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="I've tried to make this work" />
+        <Header title="I've tried to and I have!" />
         <p className="description">
           So cool!
         </p>
